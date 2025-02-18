@@ -23,5 +23,5 @@ function electionResult(votes) {
         return "Draw";
     }
 }
-console.log(electionResult(["mango", "BananA", "na vote", "na vote"]));
+
 
